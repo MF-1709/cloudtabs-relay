@@ -1,0 +1,12 @@
+{
+  "extName": { "message": "CloudTabs Relay" },
+  "extDescription": { "message": "Ouvre sur ton Mac, en un clic, les onglets Safari de ton iPhone (via les Onglets iCloud)." },
+  "searchPlaceholder": { "message": "Filtrer les onglets…" },
+  "openAll": { "message": "Tout ouvrir" },
+  "errDown": { "message": "Le serveur local ne répond pas. Lance install.sh sur le Mac." },
+  "errPermission": { "message": "Il manque l'« Accès complet au disque » pour ce binaire Python :" },
+  "errRead": { "message": "Impossible de lire les Onglets iCloud." },
+  "noMatch": { "message": "Aucun onglet ne correspond." },
+  "noTabs": { "message": "Aucun onglet iCloud pour l'instant." },
+  "footer": { "message": "Cmd+clic : ouvrir en arrière-plan · mise à jour automatique" }
+}

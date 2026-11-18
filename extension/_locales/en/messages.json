@@ -1,0 +1,12 @@
+{
+  "extName": { "message": "CloudTabs Relay" },
+  "extDescription": { "message": "Open your iPhone's Safari tabs (via iCloud Tabs) on your Mac in one click." },
+  "searchPlaceholder": { "message": "Filter tabs…" },
+  "openAll": { "message": "Open all" },
+  "errDown": { "message": "The local server isn't responding. Run install.sh on your Mac." },
+  "errPermission": { "message": "Full Disk Access is missing for this Python binary:" },
+  "errRead": { "message": "Couldn't read your iCloud Tabs." },
+  "noMatch": { "message": "No matching tabs." },
+  "noTabs": { "message": "No iCloud Tabs yet." },
+  "footer": { "message": "Cmd+click: open in background · updates automatically" }
+}
